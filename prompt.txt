@@ -1,0 +1,92 @@
+{
+  "scene": 1,
+  "duration": "0-5s",
+  "style": "ultra-realistic cinematic, natural lighting, 4K",
+  "character": "Same Indian school boy (10-12 yrs, light blue uniform shirt with badge, navy shorts, short neat hair)",
+  "camera": "slow push-in, eye-level, shallow depth of field",
+  "prompt": "Indian school boy sitting at a wooden study table in a modest home, surrounded by messy books and notebooks, slightly slouched posture, scratching his head while looking at homework, eyebrows furrowed, confused expression, warm dim lighting, ceiling fan rotating slowly above"
+}
+
+{
+  "scene": 2,
+  "duration": "5-8s",
+  "style": "ultra-realistic macro cinematic",
+  "character": "Same Indian school boy",
+  "camera": "extreme close-up",
+  "prompt": "Close-up of notebook filled with crossed-out math problems, pencil marks and eraser smudges, the boy’s hand holding an eraser pauses and then drops it gently on the page, fingers slightly tense, conveying frustration"
+}
+
+{
+  "scene": 3,
+  "duration": "8-12s",
+  "style": "ultra-realistic cinematic, natural lighting with subtle highlight",
+  "character": "Same Indian school boy",
+  "camera": "macro continuation → rack focus → insert close-up",
+  "prompt": "Continuation from notebook close-up, the boy’s hand resting near the page after dropping the eraser, a small handwritten paper note gently drifts into the frame from above, moving naturally as if carried by a light breeze from a window or ceiling fan, slightly rotating and casting soft shadows, the note initially faces the boy, his eyes track the motion upward with a subtle head tilt and curious expression, the camera follows the note briefly, then as it descends it slowly rotates toward the camera, smooth focus shift from notebook to note as it lands softly in front of him, cut to a close-up clearly showing the text 'Learn AI, Build Anything', the boy’s fingers gently pick it up, expression changing from confusion to curiosity"
+}
+
+{
+  "scene": 4,
+  "duration": "12-16s",
+  "style": "ultra-realistic cinematic",
+  "character": "Same Indian school boy",
+  "camera": "medium shot, slight push-in",
+  "prompt": "The boy opens his laptop eagerly, screen displays 'SocialEagle AI Platform', cool screen light reflects in his eyes, he leans forward and starts typing with focus, posture becomes more engaged, room lighting gradually becomes brighter"
+}
+
+{
+  "scene": 4,
+  "duration": "12-16s",
+  "style": "ultra-realistic cinematic",
+  "character": "Same Indian school boy",
+  "camera": "medium shot, slight push-in",
+  "prompt": "The boy opens his laptop eagerly, screen displays 'SocialEagle AI Platform', cool screen light reflects in his eyes, he leans forward and starts typing with focus, posture becomes more engaged, room lighting gradually becomes brighter"
+}
+
+{
+  "scene": 5,
+  "duration": "16-20s",
+  "style": "ultra-realistic with subtle UI overlays",
+  "character": "Same Indian school boy",
+  "camera": "over-the-shoulder to front",
+  "prompt": "Laptop screen shows AI explaining a math problem step-by-step with clean visual overlays, the boy points lightly at the screen following each step, his face slowly shifts to understanding, slight smile appears, eyes focused and confident"
+}
+
+{
+  "scene": 6,
+  "duration": "20-23s",
+  "style": "ultra-realistic cinematic",
+  "character": "Same Indian school boy",
+  "camera": "smooth natural motion",
+  "prompt": "The boy confidently uses AI on his laptop, subtle overlays of diagrams, notes, and equations appear near the screen, he gestures slightly while thinking, posture upright, expression focused and confident, natural daylight brightens the room"
+}
+
+{
+  "scene": 7,
+  "duration": "23-26s",
+  "style": "ultra-realistic classroom setting",
+  "character": "Same Indian school boy",
+  "camera": "medium wide shot",
+  "prompt": "The boy sits with two other kids in a classroom or study setting, showing something on his laptop, explaining with hand gestures, other kids lean in, smiling and nodding, collaborative and friendly environment with natural daylight"
+}
+
+{
+  "scene": 8,
+  "duration": "26-28s",
+  "style": "ultra-realistic cinematic",
+  "character": "Same Indian school boy",
+  "camera": "slight orbit",
+  "prompt": "The boy works on his laptop building a simple mobile app using AI tools, realistic UI screens visible, he uses trackpad and keyboard confidently, slight smile, focused eyes, clean modern lighting"
+}
+
+{
+  "scene": 9,
+  "duration": "28-30s",
+  "style": "ultra-realistic cinematic hero shot",
+  "character": "Same Indian school boy",
+  "camera": "low-angle, slight slow motion feel",
+  "prompt": "The boy stands confidently beside his study table with laptop, posture straight, warm sunlight entering from window behind him, he looks directly at the camera with a confident smile and says 'Learn AI with Social Eagle and start flying', then raises his hand and waves gently saying 'bye-bye', friendly and inspiring tone"
+}
+
+
+
