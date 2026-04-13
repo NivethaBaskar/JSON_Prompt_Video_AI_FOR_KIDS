@@ -2,7 +2,7 @@
   "scene": 1,
   "duration": "0-5s",
   "style": "ultra-realistic cinematic, natural lighting, 4K",
-  "character": "Same Indian school boy (10-12 yrs, light blue uniform shirt with badge, navy shorts, short neat hair)",
+  "character": "A Indian school boy (10-12 yrs, light blue uniform shirt with badge, navy shorts, short neat hair)",
   "camera": "slow push-in, eye-level, shallow depth of field",
   "prompt": "Indian school boy sitting at a wooden study table in a modest home, surrounded by messy books and notebooks, slightly slouched posture, scratching his head while looking at homework, eyebrows furrowed, confused expression, warm dim lighting, ceiling fan rotating slowly above"
 }
